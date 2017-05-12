@@ -1,1 +1,5 @@
-config/database.yml
+*.class
+vc/.settings
+vc/.classpath
+vc/.project
+vc/target
